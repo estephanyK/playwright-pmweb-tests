@@ -1,5 +1,3 @@
-# playwright-pmweb-tests
-
 # 🧪 Automação de Testes com Playwright - LetsBook
 
 Este repositório contém uma suíte de testes automatizados E2E utilizando Playwright para validação dos principais fluxos do sistema de reservas e CRM.
